@@ -1,0 +1,36 @@
+//Oppgave 1 
+/*
+a.) Hensikten med array objektet er at det gjør det mulig å lagre en samling av flere elementer under et enkelt variabelnavn.
+b.) instalasjonen av arrays er forskjellige i forskjellige programmerings språk, men representasjonen av arrays er det samme i alle.
+*/
+
+//Oppgave 2
+/*
+a.) Etter vi har deklarert en tom array kan vi intialisere den på forskjellige måter. Syntaxen av å deklarere en tom array er som følgende.
+
+Data-type[] array-name = new data-type[size];
+eller
+Data-type array-name[] = new data-type[size];
+
+b.) vet ikke 
+c.) vet ikke 
+*/
+
+//Oppgave 3
+
+/*
+a.) Index i en array er verien i en array som verdier områder i en array.
+b.) Den første array indexen er 0 eller 1, en index fortsetter gjennom de naturlige nummerne. 
+c.) Den siste indexen som et gitt element kan være funnet i arrayen eller -1 hvis den ikke er tilstede
+d.) Lengde egenskapen av et objekt som er forekomst av type array, setter eller returnerer nummerne av et element i den arrayen. Verdien er usignert, 32-bit heltall som er alltid nummermessig bedre en den høyeste indexen i en array.
+e.) vet ikke
+*/
+
+//Oppgave 4
+
+/*
+a.) Typeof operatøren tar bare en operand (en unary operatør). Den evaluerer en type av operand og returnerer resultatene som en string.
+b.) En array er en variabel som inneholder flere verdier. Hvilken som helst variabel kan blu brukt som en array. Const er litt misvisende. Den definerer IKKE en konstant array. Den definerer en konstant referanse til en array. På grunn av dette kan vi fortsette endre elementene i en konstant array.
+c.) Vet ikke
+*/
+
